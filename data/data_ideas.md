@@ -60,3 +60,13 @@
     Whether a brain tumor (glioma) is malignant or benign  
     **23 columns, 839 rows**  
     [link](https://archive.ics.uci.edu/dataset/759/glioma+grading+clinical+and+mutation+features+dataset)
+   
+- ## Dresses sales
+    This dataset contain attributes of dresses and their recommendations according to their sales.  
+    **13 columns, 500 rows** 
+    [link](https://www.openml.org/search?type=data&sort=qualities.NumberOfFeatures&status=active&qualities.NumberOfClasses=%3D_2&order=asc&qualities.NumberOfInstances=lte_1000&id=23381)  
+    only nominal values, many missing
+
+
+    
+    
