@@ -67,6 +67,20 @@
     [link](https://www.openml.org/search?type=data&sort=qualities.NumberOfFeatures&status=active&qualities.NumberOfClasses=%3D_2&order=asc&qualities.NumberOfInstances=lte_1000&id=23381)  
     only nominal values, many missing
 
+- ## Penguins
+    Sweet penguins  
+    **7 columns, 274 rows**  
+    [link](https://www.kaggle.com/datasets/martaarroyo/palmer-penguins-for-binary-classification)  
 
+- ## The Estonia Disaster Passenger List
+    Predicting whether someone survived     
+    **8 columns, 989 rows**  
+    [link](https://www.kaggle.com/datasets/christianlillelund/passenger-list-for-the-estonia-ferry-disaster/data)  
+    
+- ## Go To College Dataset
+    Predicting whether someone will go to college     
+    **11 columns, 1000 rows**  
+    [link](https://www.kaggle.com/datasets/saddamazyazy/go-to-college-dataset)  
+    
     
     
