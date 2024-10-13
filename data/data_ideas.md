@@ -1,4 +1,4 @@
-# Data Ideas
+# Top datasets
 
 - ## Diabetes
     Data about diabetes  
@@ -9,7 +9,32 @@
     Data regarding credit cards  
     **16 columns, 690 rows**  
     [link](https://www.openml.org/search?type=data&sort=runs&status=active&qualities.NumberOfInstances=lte_1000&qualities.NumberOfClasses=%3D_2&id=29)  
-    A bit of a cliché topic, in my opinion.
+
+- ## Heart Disease Dataset
+    Risk of heart disease (sick/healthy)  
+    **14 columns, 920 rows**  
+    [link](https://www.kaggle.com/code/ctlockhart3/uci-heart-disease-binary-classification)
+
+- ## Transfusion Blood Donation Dataset
+    Blood donors, predicting whether a donor will donate blood again  
+    **5 columns, 748 rows**  
+    [link](https://archive.ics.uci.edu/dataset/176/blood+transfusion+service+center)
+
+- ## Penguins
+    Sweet penguins  
+    **7 columns, 274 rows**  
+    [link](https://www.kaggle.com/datasets/martaarroyo/palmer-penguins-for-binary-classification)  
+
+- ## Go To College Dataset
+    Predicting whether someone will go to college     
+    **11 columns, 1000 rows**  
+    [link](https://www.kaggle.com/datasets/saddamazyazy/go-to-college-dataset)  
+
+
+
+  
+
+# Other
 
 - ## Banknote Authentication
     Distinguishing between genuine and counterfeit banknotes  
@@ -26,11 +51,6 @@
     **9 columns, 958 rows**  
     [link](https://archive.ics.uci.edu/dataset/101/tic+tac+toe+endgame)
 
-- ## Heart Disease Dataset
-    Risk of heart disease (sick/healthy)  
-    **14 columns, 920 rows**  
-    [link](https://www.kaggle.com/code/ctlockhart3/uci-heart-disease-binary-classification)
-
 - ## Breast Cancer Wisconsin Dataset
     Breast cancer - malignant/benign  
     **10 columns, 699 rows**  
@@ -40,11 +60,6 @@
     Evaluating cars on various aspects - good/bad  
     **6 columns, 1728 rows**  
     [link](https://archive.ics.uci.edu/dataset/19/car+evaluation)
-
-- ## Transfusion Blood Donation Dataset
-    Blood donors, predicting whether a donor will donate blood again  
-    **5 columns, 748 rows**  
-    [link](https://archive.ics.uci.edu/dataset/176/blood+transfusion+service+center)
 
 - ## Wine Quality
     Rating whether the wine is good or not  
@@ -67,20 +82,10 @@
     [link](https://www.openml.org/search?type=data&sort=qualities.NumberOfFeatures&status=active&qualities.NumberOfClasses=%3D_2&order=asc&qualities.NumberOfInstances=lte_1000&id=23381)  
     only nominal values, many missing
 
-- ## Penguins
-    Sweet penguins  
-    **7 columns, 274 rows**  
-    [link](https://www.kaggle.com/datasets/martaarroyo/palmer-penguins-for-binary-classification)  
-
 - ## The Estonia Disaster Passenger List
     Predicting whether someone survived     
     **8 columns, 989 rows**  
     [link](https://www.kaggle.com/datasets/christianlillelund/passenger-list-for-the-estonia-ferry-disaster/data)  
-    
-- ## Go To College Dataset
-    Predicting whether someone will go to college     
-    **11 columns, 1000 rows**  
-    [link](https://www.kaggle.com/datasets/saddamazyazy/go-to-college-dataset)  
     
     
     
