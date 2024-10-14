@@ -10,6 +10,21 @@
     **16 columns, 690 rows**  
     [link](https://www.openml.org/search?type=data&sort=runs&status=active&qualities.NumberOfInstances=lte_1000&qualities.NumberOfClasses=%3D_2&id=29)  
 
+- ## Penguins
+    Sweet penguins  
+    **7 columns, 274 rows**  
+    [link](https://www.kaggle.com/datasets/martaarroyo/palmer-penguins-for-binary-classification)  
+
+- ## Go To College Dataset
+    Predicting whether someone will go to college     
+    **11 columns, 1000 rows**  
+    [link](https://www.kaggle.com/datasets/saddamazyazy/go-to-college-dataset)  
+
+
+
+
+# Good datasets
+
 - ## Heart Disease Dataset
     Risk of heart disease (sick/healthy)  
     **14 columns, 920 rows**  
@@ -20,15 +35,6 @@
     **5 columns, 748 rows**  
     [link](https://archive.ics.uci.edu/dataset/176/blood+transfusion+service+center)
 
-- ## Penguins
-    Sweet penguins  
-    **7 columns, 274 rows**  
-    [link](https://www.kaggle.com/datasets/martaarroyo/palmer-penguins-for-binary-classification)  
-
-- ## Go To College Dataset
-    Predicting whether someone will go to college     
-    **11 columns, 1000 rows**  
-    [link](https://www.kaggle.com/datasets/saddamazyazy/go-to-college-dataset)  
 
 
 
