@@ -1,9 +1,71 @@
-import pandas as pd
-import seaborn as sns
-
 import matplotlib.pyplot as plt
+import seaborn as sns
+import pandas as pd
 
-def perform_eda(df):
+
+def perform_eda(path):
+    
+    df = pd.read_csv(path)
+    
+    print("###### Head of the dataset #####")
+    print(df.head(10))
+    
+    print("##### Tail of the dataset #####")
+    print(df.tail(10))
+    
+    print("##### Info #####")
+    df.info()
+    
+    print("##### Description #####")
+    df.describe()
+    
+    print("##### Null number #####")
+    df.isnull().sum()
+    
+    print("##### Types of the variables #####")
+    df.dtypes
+    
+    print("##### Number of unique values #####")
+    df.nunique()
+    
+    correlation = df.corr().round(2)
+    plt.figure(figsize = (14,7))
+    sns.heatmap(correlation, annot = True, cmap = 'YlOrBr')
+    
+    return df
+
+df = perform_eda('./data/college.csv')
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+def performeda(df):
     # Display basic information about the dataframe
     print("Dataframe Information:")
     print(df.info())
