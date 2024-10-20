@@ -3,4 +3,10 @@
 
 - if we have for example a variable "type of school" with values "Academic" and "Vocational" or gender and we encode it to 0 or 1, the is it important where is 0 and where is 1?
 
+- Penguins: should we delete corelated columns
+
+- Diabetes: half of the values (insulin) are 0 which is not possible, should we replace it?
+
+- Diabetes: should we normalize values?
+
 # Answers
