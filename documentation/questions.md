@@ -1,5 +1,6 @@
 # Questions
 - when do we split dataset? before or after EDA and preprocessing? (we did EDA, then split, then preprocess)
 
+- if we have for example a variable "type of school" with values "Academic" and "Vocational" or gender and we encode it to 0 or 1, the is it important where is 0 and where is 1?
 
 # Answers
