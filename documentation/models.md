@@ -1,6 +1,6 @@
 # Models to select from
 
-## KNeighborsClassifier
+## KNeighborsClassifier +
 https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html  
 sensitive for hyperparams, quite simple, not so good for large datasets (quite slow)
 
@@ -10,7 +10,7 @@ sensitive for hyperparams, quite simple, not so good for large datasets (quite s
   - Weighting of neighbors \( weights \)
 
 
-## DecisionTreeClassifier
+## DecisionTreeClassifier +
 tree \
 https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
 
@@ -37,7 +37,7 @@ https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAg
   - much more
 
 
-## XGBoost
+## XGBoost +
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html \
 a boosting algorithm, popular for classification tasks, has a lot of hyperparams
 
@@ -57,7 +57,7 @@ assumes feature independence, so it is good only for data with independent featu
 - Laplace smoothing parameter (alpha)
 
 
-## Random Forest
+## Random Forest 
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html \
 uses multiple decision tress, has many hiperparams to tune
 
