@@ -1,0 +1,5 @@
+College:
+    - no missing values
+    - 5 categoric values to one-hot encoding
+    - no correlation
+    - 
