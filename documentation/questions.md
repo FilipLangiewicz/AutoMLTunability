@@ -4,3 +4,7 @@
 - określenie zakresów hiperparametrów dla poszczególnych modeli - motywacja wynikająca z literatury 
 
     *czy my możemy wziąć sobie zakresy hiperparametrów takie na oko, czy jak je wyznaczyć?*
+
+- czy siatka hiperparametrów musi być taka sama w Bayesian i w Random Searchu
+- jakie hiperparametry dobrać?
+- jak liczyc tunowalnosc w bayesianie? skoro mamy miec rozne wylosowane hiperparametry
