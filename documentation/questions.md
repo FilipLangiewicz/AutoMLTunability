@@ -8,3 +8,4 @@
 - czy siatka hiperparametrów musi być taka sama w Bayesian i w Random Searchu
 - jakie hiperparametry dobrać?
 - jak liczyc tunowalnosc w bayesianie? skoro mamy miec rozne wylosowane hiperparametry
+- czy w KNN rozważamy dobre parametry?
